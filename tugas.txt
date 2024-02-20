@@ -1,0 +1,3 @@
+nama :andre bagus s.
+prodi :t.informatika
+nim :1234
