@@ -1,3 +1,4 @@
 nama :andre bagus s.
 prodi :t.informatika
 nim :1234
+alamat: jawa timur
